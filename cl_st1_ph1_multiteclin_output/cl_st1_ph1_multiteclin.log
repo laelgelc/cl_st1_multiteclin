@@ -1,0 +1,67 @@
+2024-12-11 18:48:46,710 - INFO - Starting to read the file
+2024-12-11 18:48:46,712 - INFO - Captured Text ID: t000000
+2024-12-11 18:48:46,713 - INFO - Captured Title: The Pedagogy of Multiliteracies Applied to English Teaching
+2024-12-11 18:48:46,713 - INFO - Starting new section: Introduction
+2024-12-11 18:48:46,714 - INFO - Captured Paragraph 1 in Section: Introduction
+2024-12-11 18:48:46,714 - INFO - Captured Paragraph 2 in Section: Introduction
+2024-12-11 18:48:46,714 - INFO - Captured Paragraph 3 in Section: Introduction
+2024-12-11 18:48:46,714 - INFO - Starting new section: Development
+2024-12-11 18:48:46,714 - INFO - Captured Paragraph 1 in Section: Development
+2024-12-11 18:48:46,714 - INFO - Captured Paragraph 2 in Section: Development
+2024-12-11 18:48:46,714 - INFO - Captured Paragraph 3 in Section: Development
+2024-12-11 18:48:46,715 - INFO - Captured Paragraph 4 in Section: Development
+2024-12-11 18:48:46,716 - INFO - Captured Paragraph 5 in Section: Development
+2024-12-11 18:48:46,717 - INFO - Captured Paragraph 6 in Section: Development
+2024-12-11 18:48:46,718 - INFO - Captured Paragraph 7 in Section: Development
+2024-12-11 18:48:46,718 - INFO - Captured Paragraph 8 in Section: Development
+2024-12-11 18:48:46,718 - INFO - Captured Paragraph 9 in Section: Development
+2024-12-11 18:48:46,718 - INFO - Captured Paragraph 10 in Section: Development
+2024-12-11 18:48:46,718 - INFO - Captured Paragraph 11 in Section: Development
+2024-12-11 18:48:46,718 - INFO - Captured Paragraph 12 in Section: Development
+2024-12-11 18:48:46,718 - INFO - Captured Paragraph 13 in Section: Development
+2024-12-11 18:48:46,718 - INFO - Captured Paragraph 14 in Section: Development
+2024-12-11 18:48:46,718 - INFO - Captured Paragraph 15 in Section: Development
+2024-12-11 18:48:46,718 - INFO - Captured Paragraph 16 in Section: Development
+2024-12-11 18:48:46,719 - INFO - Captured Paragraph 17 in Section: Development
+2024-12-11 18:48:46,719 - INFO - Captured Paragraph 18 in Section: Development
+2024-12-11 18:48:46,719 - INFO - Captured Paragraph 19 in Section: Development
+2024-12-11 18:48:46,719 - INFO - Captured Paragraph 20 in Section: Development
+2024-12-11 18:48:46,719 - INFO - Starting new section: Final Considerations
+2024-12-11 18:48:46,719 - INFO - Captured Paragraph 1 in Section: Final Considerations
+2024-12-11 18:48:46,720 - INFO - Captured Paragraph 2 in Section: Final Considerations
+2024-12-11 18:48:46,720 - INFO - Captured Paragraph 3 in Section: Final Considerations
+2024-12-11 18:48:46,720 - INFO - Captured Paragraph 4 in Section: Final Considerations
+2024-12-11 18:48:46,720 - INFO - Captured Paragraph 5 in Section: Final Considerations
+2024-12-11 18:48:46,720 - INFO - Captured Paragraph 6 in Section: Final Considerations
+2024-12-11 18:48:46,720 - INFO - Captured Paragraph 7 in Section: Final Considerations
+2024-12-11 18:48:46,723 - INFO - DataFrame created successfully
+2024-12-11 18:50:35,102 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-11 18:50:39,885 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-11 18:50:42,563 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-11 18:50:47,317 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-11 18:50:49,564 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-11 18:51:34,443 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-11 18:51:36,916 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-11 18:51:39,394 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-11 18:51:41,643 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-11 18:51:45,215 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-11 18:51:47,888 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-11 18:51:50,768 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-11 18:51:53,157 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-11 18:51:56,247 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-11 18:51:58,962 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-11 18:52:02,763 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-11 18:52:05,439 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-11 18:52:08,073 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-11 18:52:09,965 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-11 18:52:12,242 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-11 18:52:15,705 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-11 18:52:18,732 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-11 18:52:20,747 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-11 18:52:23,009 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-11 18:52:25,092 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-11 18:52:27,734 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-11 18:52:30,976 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-11 18:52:35,183 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-11 18:52:37,263 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-11 18:52:40,305 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"

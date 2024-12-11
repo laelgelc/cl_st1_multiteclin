@@ -2,4 +2,4 @@
 
 ## Corpus Linguistics - Study 1 - Phase 1 - MultiTecLin
 
-- Academic writing revision through ChatGPT.
+- Academic writing revision with ChatGPT as writing assistant.
